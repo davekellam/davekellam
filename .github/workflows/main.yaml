@@ -9,6 +9,9 @@ on:
 jobs:
   generate-snake-animation:
     name: Generate the snake animation
+    permissions: 
+      contents: write
+      pages: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
