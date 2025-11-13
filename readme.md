@@ -10,6 +10,8 @@ WordPress has been my primary tool to do so for the last 20 or so. I've used it 
 
 If you'd like to build something get in touch.
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davekellam/davekellam/snakes/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davekellam/davekellam/snakes/github-contribution-grid-snake.svg">
