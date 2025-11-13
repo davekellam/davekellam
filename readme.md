@@ -1,14 +1,8 @@
-# 👋 I'm Dave Kellam
-
-I'm a developer, designer and teacher, living in Montréal.
-
-## About
+# 👋 I'm Dave 
 
 I've been creating on the web for 30 years.
 
-WordPress has been my primary tool to do so for the last 20 or so. I've used it to create sites for newspapers, television, Fortune 500 companies, non-profits, mom & pop shops, friends, and everything in between. 
-
-If you'd like to build something get in touch.
+WordPress has been my primary tool to do so for the last 20 or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions.
 
 ---
 
