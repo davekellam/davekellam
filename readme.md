@@ -1,6 +1,8 @@
 # 👋 I'm Dave 
 
-I'm a developer, designer & teacher, and have been creating on the web for almost as long as it has existed. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions.
+I'm a developer, designer & teacher, living in Montreal. 
+
+I've been creating on the web for almost as long as it has existed. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions.
 
 Currently working on my [personal site](https://davekellam.com), [related infrastructure](https://github.com/davekellam/davekellam.com), an [environment indicator plugin](https://github.com/davekellam/dont-mess-up-prod) and some [css learning](https://piccalil.li/complete-css/).
 
