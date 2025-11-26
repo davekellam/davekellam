@@ -17,6 +17,11 @@ Currently working on my [personal site](https://github.com/davekellam/davekellam
 ## ✍️ Recent blog posts
 
 <!-- DAVEKELLAM:START -->
+- [Theme of Theseus](https://davekellam.com/2025/11/theme-of-theseus/)
+- [Make your own website](https://davekellam.com/2025/11/make-your-own-website/)
+- [Why hyperlinks are blue](https://davekellam.com/2022/01/why-hyperlinks-are-blue/)
+- [Colours: where did they go?](https://davekellam.com/2022/01/colours-where-did-they-go/)
+- [Moving old books](https://davekellam.com/2022/01/moving-books-three-hundred-years-after-the-first-foundation-stone/)
 <!-- DAVEKELLAM:END -->
 
 ## 🌐 Some links
