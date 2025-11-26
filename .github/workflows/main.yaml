@@ -37,9 +37,15 @@ jobs:
                 images/github-contribution-grid-snake.svg
                 images/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: verify generated assets exist
+        run: |
+          test -f images/github-contribution-grid-snake.svg
+          test -f images/github-contribution-grid-snake-dark.svg
+
         # push the content of <build_dir> to a branch
         # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
+        if: ${{ success() }}
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
             target_branch: snakes
