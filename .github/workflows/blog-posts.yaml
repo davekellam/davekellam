@@ -6,8 +6,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-main-blog:
+  update-blog:
     name: Update README with main blog posts
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
