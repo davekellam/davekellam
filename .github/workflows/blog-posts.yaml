@@ -1,0 +1,20 @@
+name: Update Profile README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # every day at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-main-blog:
+    name: Update README with main blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://davekellam.com/feed/"
+          max_post_count: 5
+          commit_message: "Updated readme with latest blog posts"
+          comment_tag_name: "DAVEKELLAM"
+          readme_path: "readme.md"
