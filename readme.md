@@ -30,7 +30,7 @@ Currently working on my [personal site](https://github.com/davekellam/davekellam
 * **Profile:** [WordPress.org (eightface)](https://profiles.wordpress.org/eightface/)
 * **Post:** [My font was in a movie](https://davekellam.com/2018/06/my-font-was-in-a-movie/)
 
-## ✍️ Get in touch
+## 💬 Get in touch
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0085FF?&logo=bluesky&logoColor=white)](https://bsky.app/profile/davekellam.com)
 [![Gmail](https://img.shields.io/badge/gmail-4285F4?&logo=gmail&logoColor=white)](mailto:kellam@gmail.com)
