@@ -17,11 +17,11 @@ Currently working on my [personal site](https://github.com/davekellam/davekellam
 ## ✍️ Recent blog posts
 
 <!-- DAVEKELLAM:START -->
+- [Tailscale on a Kindle](https://davekellam.com/2025/12/tailscale-on-a-kindle/)
 - [Complete CSS](https://davekellam.com/2025/11/complete-css/)
 - [Theme of Theseus](https://davekellam.com/2025/11/theme-of-theseus/)
 - [Make your own website](https://davekellam.com/2025/11/make-your-own-website/)
 - [Why hyperlinks are blue](https://davekellam.com/2022/01/why-hyperlinks-are-blue/)
-- [Colours: where did they go?](https://davekellam.com/2022/01/colours-where-did-they-go/)
 <!-- DAVEKELLAM:END -->
 
 ## 🌐 Some links
