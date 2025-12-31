@@ -17,11 +17,11 @@ Currently working on my [personal site](https://github.com/davekellam/davekellam
 ## ✍️ Recent blog posts
 
 <!-- DAVEKELLAM:START -->
+- [Reweirding the web](https://davekellam.com/2025/12/reweirding-the-web/)
 - [Requiem For Early Blogging](https://davekellam.com/2025/12/requiem-for-early-blogging/)
 - [Programming is mostly thinking](https://davekellam.com/2025/12/programming-is-mostly-thinking/)
 - [Tailscale on a Kindle](https://davekellam.com/2025/12/tailscale-on-a-kindle/)
 - [Complete CSS](https://davekellam.com/2025/11/complete-css/)
-- [Theme of Theseus](https://davekellam.com/2025/11/theme-of-theseus/)
 <!-- DAVEKELLAM:END -->
 
 ## 🌐 Some links
