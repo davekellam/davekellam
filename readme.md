@@ -1,10 +1,12 @@
 # 👋 I'm Dave 
 
-I'm a developer, designer & teacher, living in Montreal. I've spent most of my lifetime creating on the web.
+A developer, designer & teacher, living in Montreal. 
 
-WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions. [WordPress.org profile (eightface)](https://profiles.wordpress.org/eightface/)
+I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions ([wordpress.org profile](https://profiles.wordpress.org/eightface/)). Beyond that I'm a generalist and can generally get anything working.
 
-A font that I made in high-school was used in a ([movie](https://davekellam.com/2018/06/my-font-was-in-a-movie/)). Occasionally I give talks, like [Math and Poetry (HybridConf 2015)](https://vimeo.com/166454425).
+Some random things: 
+- a font that I made in high-school was used in a [movie](https://davekellam.com/2018/06/my-font-was-in-a-movie/)
+- occasionally I give talks, like [Math(s) and Poetry](https://vimeo.com/166454425)
 
 ## 🧑‍💻🐍
 
