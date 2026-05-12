@@ -2,7 +2,7 @@
 
 A developer, designer & teacher, living in Montreal. 
 
-I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions ([wordpress.org profile](https://profiles.wordpress.org/eightface/)). Beyond that I'm a generalist and can generally get anything working.
+I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions ([wordpress.org profile](https://profiles.wordpress.org/eightface/)). Beyond that I'm a generalist and can typically get anything working.
 
 Some random things: 
 - a font that I made in high-school was used in a [movie](https://davekellam.com/2018/06/my-font-was-in-a-movie/)
