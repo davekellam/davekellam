@@ -1,12 +1,14 @@
 # 👋 I'm Dave 
 
-I'm a developer, designer & teacher, living in Montreal. 
+I'm a developer, designer & teacher, living in Montreal. I've spent most of my lifetime creating on the web.
 
-I've been creating on the web for almost as long as it has existed. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions.
+WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions. [WordPress.org profile (eightface)](https://profiles.wordpress.org/eightface/)
 
-Get in touch if you'd like to build something.
+A font that I made in high-school was used in a ([movie](https://davekellam.com/2018/06/my-font-was-in-a-movie/)). Occasionally I give talks, like [Math and Poetry (HybridConf 2015)](https://vimeo.com/166454425).
 
 ## 🧑‍💻🐍
+
+Tinkering with `NIBBLES.BAS` was one of my earliest programming experiences, so was fun to get this contribution eating snake working.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davekellam/davekellam/snakes/github-contribution-grid-snake-dark.svg">
@@ -23,15 +25,3 @@ Get in touch if you'd like to build something.
 - [Requiem For Early Blogging](https://davekellam.com/2025/12/requiem-for-early-blogging/)
 - [Programming is mostly thinking](https://davekellam.com/2025/12/programming-is-mostly-thinking/)
 <!-- DAVEKELLAM:END -->
-
-## 🌐 Some links
-
-* **Video:** [Dave Kellam – Pocket Talk: Math and Poetry (HybridConf 2015)](https://vimeo.com/166454425)
-* **Profile:** [WordPress.org (eightface)](https://profiles.wordpress.org/eightface/)
-* **Post:** [My font was in a movie](https://davekellam.com/2018/06/my-font-was-in-a-movie/)
-
-## 💬 Get in touch
-
-[![Bluesky](https://img.shields.io/badge/bluesky-0085FF?&logo=bluesky&logoColor=white)](https://bsky.app/profile/davekellam.com)
-[![Gmail](https://img.shields.io/badge/gmail-4285F4?&logo=gmail&logoColor=white)](mailto:kellam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?&logo=logmein&logoColor=white)](https://www.linkedin.com/in/davekellam/)
