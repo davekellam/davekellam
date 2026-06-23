@@ -17,9 +17,9 @@ Tinkering with `NIBBLES.BAS` was one of my earliest programming experiences, so 
 ## ✍️ Recent blog posts
 
 <!-- DAVEKELLAM:START -->
+- [Coffee this week – Brazil Mogiana](https://davekellam.com/2026/06/coffee-this-week-brazil-mogiana/)
 - [Aeronaut](https://davekellam.com/2026/02/aeronaut/)
 - [There Is No Antimemetics Division audiobook](https://davekellam.com/2026/01/there-is-no-antimemetics-division-audiobook/)
 - [Reweirding the web](https://davekellam.com/2025/12/reweirding-the-web/)
 - [Requiem For Early Blogging](https://davekellam.com/2025/12/requiem-for-early-blogging/)
-- [Programming is mostly thinking](https://davekellam.com/2025/12/programming-is-mostly-thinking/)
 <!-- DAVEKELLAM:END -->
