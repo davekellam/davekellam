@@ -9,11 +9,11 @@ I've spent most of my lifetime creating on the web. WordPress has been my primar
 ## ✍️ Recent blog posts
 
 <!-- DAVEKELLAM:START -->
+- [Don’t Mess Up Prod](https://davekellam.com/2026/07/dont-mess-up-prod/)
 - [Coffee this week – Brazil Mogiana](https://davekellam.com/2026/06/coffee-this-week-brazil-mogiana/)
 - [Aeronaut](https://davekellam.com/2026/02/aeronaut/)
 - [There Is No Antimemetics Division audiobook](https://davekellam.com/2026/01/there-is-no-antimemetics-division-audiobook/)
 - [Reweirding the web](https://davekellam.com/2025/12/reweirding-the-web/)
-- [Requiem For Early Blogging](https://davekellam.com/2025/12/requiem-for-early-blogging/)
 <!-- DAVEKELLAM:END -->
 
 ## 🧑‍💻🐍
