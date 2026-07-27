@@ -9,11 +9,11 @@ Visit my [sifa.id profile](https://sifa.id/p/davekellam.com) ([page view](https:
 ## Recent blog posts from my site
 
 <!-- DAVEKELLAM:START -->
+- [Coffee this week – Sunday Morning](https://davekellam.com/2026/07/coffee-this-week-sunday-morning/)
 - [Atmosphere Roundup](https://davekellam.com/2026/07/atmosphere-roundup/)
 - [Coffee this week – Santa Rosa](https://davekellam.com/2026/07/coffee-this-week-santa-rosa/)
 - [Don’t Mess Up Prod](https://davekellam.com/2026/07/dont-mess-up-prod/)
 - [Coffee this week – Brazil Mogiana](https://davekellam.com/2026/06/coffee-this-week-brazil-mogiana/)
-- [Aeronaut](https://davekellam.com/2026/02/aeronaut/)
 <!-- DAVEKELLAM:END -->
 
 ## Snnnnaaaake
