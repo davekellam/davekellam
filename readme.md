@@ -1,12 +1,12 @@
-# 👋 I'm Dave 
+# Heya, I'm Dave 
 
 A developer, designer & teacher, living in Montreal. 
 
-I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to create sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions. Beyond that I'm a generalist and can typically get anything working.
+I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to build sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions. Beyond that I'm a generalist and can typically get anything working.
 
-[<img height="200" style="float: right; margin: 0 0 15px 15px;" alt="Screenshot of Sifa ID Badge" src="https://github.com/user-attachments/assets/8a7033c6-327a-4a72-9181-8d6cd3885107" />](https://sifa.id/p/davekellam.com)
+Visit my [sifa.id profile](https://sifa.id/p/davekellam.com) ([page view](https://page.sifa.id/davekellam.com), [md](https://page.sifa.id/davekellam.com/md/)) for professional experience.
 
-## ✍️ Recent blog posts
+## Recent blog posts from my site
 
 <!-- DAVEKELLAM:START -->
 - [Atmosphere Roundup](https://davekellam.com/2026/07/atmosphere-roundup/)
@@ -16,7 +16,7 @@ I've spent most of my lifetime creating on the web. WordPress has been my primar
 - [Aeronaut](https://davekellam.com/2026/02/aeronaut/)
 <!-- DAVEKELLAM:END -->
 
-## 🧑‍💻🐍
+## Snnnnaaaake
 
 Tinkering with `NIBBLES.BAS` was one of my earliest programming experiences, so was fun to get this contribution eating snake working:
 
