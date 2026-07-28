@@ -4,7 +4,7 @@ A developer, designer & teacher, living in Montreal.
 
 I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to build sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions. Beyond that I'm a generalist and can typically get anything working.
 
-Visit my [sifa.id profile](https://sifa.id/p/davekellam.com) ([page view](https://page.sifa.id/davekellam.com), [md](https://page.sifa.id/davekellam.com/md/)) for professional experience.
+Visit my [sifa.id profile](https://sifa.id/p/davekellam.com) (or the id's [page view](https://page.sifa.id/davekellam.com)/[md view](https://page.sifa.id/davekellam.com.md/)) for professional experience.
 
 ## Recent blog posts from my site
 
