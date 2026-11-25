@@ -1,6 +1,6 @@
 # Heya, I'm Dave 
 
-A developer, designer & teacher. I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to build sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions.
+A developer, designer & teacher. I've spent most of my lifetime creating on the web. WordPress has been my primary tool to do so for the last twenty years or so. I've used it to build sites for newspapers, television, Fortune&nbsp;500 companies, non-profits, universities, and various arts &amp; culture institutions. Send me a message if you'd like to build something together.
 
 ## Recent blog posts from my site
 
